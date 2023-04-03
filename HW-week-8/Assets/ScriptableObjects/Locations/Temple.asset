@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b318d236c96230945a6fd367ac27be8e, type: 3}
+  m_Name: Temple
+  m_EditorClassIdentifier: 
+  locationName: The Temple
+  locationDescription: Crumbling walls and collapsed ceilings, colorfully painted
+    chunks of debris and humanoid shapes, saints hewn from stone lie shattered in
+    their forlorn sanctimonity.
+  harborLocation: {fileID: 11400000, guid: d5f05ff153fe4144f951b190a44c6681, type: 2}
+  templeLocation: {fileID: 11400000}
+  lighthouseLocation: {fileID: 11400000, guid: 019572ff02492ff46b631b2a6876f0f6, type: 2}
+  startLocation: {fileID: 0}

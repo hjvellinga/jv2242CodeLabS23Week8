@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b318d236c96230945a6fd367ac27be8e, type: 3}
+  m_Name: Lighthouse
+  m_EditorClassIdentifier: 
+  locationName: The Lighthouse
+  locationDescription: A lonely lighthouse stands proudly at the tip of a pitch black
+    basalt pier, its beacon cold and hollow, its heart extinguished many centuries
+    ago.
+  harborLocation: {fileID: 11400000, guid: d5f05ff153fe4144f951b190a44c6681, type: 2}
+  templeLocation: {fileID: 11400000, guid: ad9e44bf9b3f7c84aba53d5b56b6f5dc, type: 2}
+  lighthouseLocation: {fileID: 11400000}
+  startLocation: {fileID: 0}
