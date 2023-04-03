@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Interactive map
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Map with three buttons, text objects for each location created with scriptable objects. 
+Prototyping this for potential thesis showcase. 
